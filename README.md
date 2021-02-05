@@ -8,8 +8,8 @@ I decided to host a collection of these because I could only find a couple in th
 
 ### Installation requirements
 1. Android phone with Bluetooth HID profile (enabled by default in Android 10)
-  - The application requires that your device has a Bluetooth HID Profile, which Android Pie (9) is needed for. To verify if your device has the necessary profile, please use the following checker: https://play.google.com/store/apps/details?id=com.rdapps.bluetoothhidtester
-  - I did some research on using an Android VM instead, and be warned: it is either not possible or very difficult
+     - The application requires that your device has a Bluetooth HID Profile, which Android Pie (9) is needed for. To verify if your device has the necessary profile, please use the following checker: https://play.google.com/store/apps/details?id=com.rdapps.bluetoothhidtester
+     - I did some research on using an Android VM instead, and be warned: it is either not possible or very difficult
 2. [JoyconDroid app](https://play.google.com/store/apps/details?id=com.rdapps.gamepad&hl=en_US&gl=US)
 
 ## Using these scripts:
@@ -20,6 +20,6 @@ I decided to host a collection of these because I could only find a couple in th
 ## Writing your own scripts
 
 ## Resources
-[JoyConDroid Discord](https://discord.gg/9EVQmWhGEx)
-[JoyConDroid Source-code](https://github.com/YouTubePlays/JoyConDroid)
-[TAS UI Developer](https://github.com/TheGreatRambler/JoyConDroidTASTheme)
+- [JoyConDroid Discord](https://discord.gg/9EVQmWhGEx)
+- [JoyConDroid Source-code](https://github.com/YouTubePlays/JoyConDroid)
+- [TAS UI Developer](https://github.com/TheGreatRambler/JoyConDroidTASTheme)
